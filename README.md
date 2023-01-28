@@ -1,4 +1,4 @@
-# Insertion Sort
+# Binary Search
 Bu README.md dosyası [Patika.dev-Binary_Search](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/binary-search-tree-proje) alıştırmaları kapsamında hazırlanmıştır.
 
 ### Alıştırma Sorusu :
